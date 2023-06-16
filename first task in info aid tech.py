@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import random #This random library gives the random number in the range of (start,stop).
 def play_game():
     Secret_num=random.randint(1,100) #This Line of code will give the range of the numbers to be generated in between.
@@ -45,16 +39,6 @@ play_game()
 
 # Ask to play again
 play_again()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
